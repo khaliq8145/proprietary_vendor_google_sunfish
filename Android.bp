@@ -21959,7 +21959,6 @@ cc_prebuilt_binary {
                 "android.hardware.graphics.mapper@3.0",
                 "android.hardware.graphics.mapper@4.0",
                 "android.hardware.thermal@2.0",
-                "libbinder",
                 "libbinder_ndk",
                 "libbase",
                 "libcamera_metadata",
